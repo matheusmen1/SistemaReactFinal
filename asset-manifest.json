@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SistemaReact/static/css/main.d221dc40.css",
+    "main.js": "/SistemaReact/static/js/main.af8535cb.js",
+    "static/media/pagina404.png": "/SistemaReact/static/media/pagina404.4bf0805d8d55a31c5142.png",
+    "index.html": "/SistemaReact/index.html",
+    "main.d221dc40.css.map": "/SistemaReact/static/css/main.d221dc40.css.map",
+    "main.af8535cb.js.map": "/SistemaReact/static/js/main.af8535cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.af8535cb.js"
+  ]
+}
